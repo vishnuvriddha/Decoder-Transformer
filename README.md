@@ -1,1 +1,4 @@
 # Search-Systems
+
+Please look at the .ipynb files "inferspaces.ipynb" for a simple overview of Text Search with Embeddings
+For a simple implementation of RAG with BM25: see RAG.py
